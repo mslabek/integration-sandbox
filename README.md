@@ -1,0 +1,1 @@
+This project is a collection of container based services for development purposes
